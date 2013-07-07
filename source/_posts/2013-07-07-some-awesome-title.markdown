@@ -8,8 +8,11 @@ categories: cosicas
 
 <p>un parrafo</p>
 <p>otro parrafo</p>
+
 <ul>
 	<li>punto one</li>
 	<li>punto two</li>
 	<li>punto tresss</li>
 </ul>
+
+<p>Probando cambios</p>
