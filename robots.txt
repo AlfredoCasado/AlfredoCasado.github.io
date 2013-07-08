@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://AlfredoCasado.github.io/sitemap.xml 
